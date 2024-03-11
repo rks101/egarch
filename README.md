@@ -5,6 +5,7 @@ egarch => Pronounced as easy-arch, it is a compilation of topics relevant to com
     * [GPU](#gpu)
     * [Unified Memory](#unified-memory)
     * [RAM](#ram)
+    * [Cache](#cache)
 
 
 ## GPU   
@@ -13,6 +14,7 @@ A CPU is designed for general-purpose computations. A GPU is designed to perform
 
 [How does a discrete GPU works](https://www.quora.com/How-does-a-GPU-work?no_redirect=1)     
 
+----
 
 ## Unified Memory    
 
@@ -22,4 +24,15 @@ Apple devices ship with Unified Memory from 2020 to give a single address space 
 
 [How to visualize Unified Memory?](https://www.makeuseof.com/what-is-unified-memory/)     
 
-## RAM   
+----
+
+## RAM    
+
+
+----
+
+## Cache 
+
+
+----
+
