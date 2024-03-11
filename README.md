@@ -1,7 +1,7 @@
 # egarch
 egarch => Pronounced as easy-arch, it is a compilation of topics relevant to computer science. I do not advocate for any company or market any product from a company. Their inclusion here is merely to understand the topic and some advanced concepts.    
 
-  * egarch(#egarch)
+  * [egarch](#egarch)
     * [GPU](#gpu)
     * [Unified Memory](#unified-memory)
     * [RAM](#ram)
