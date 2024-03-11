@@ -1,6 +1,10 @@
 # egarch
 egarch => Pronounced as easy-arch, it is a compilation of topics relevant to computer science. I do not advocate for any company or market any product from a company. Their inclusion here is merely to understand the topic and some advanced concepts.    
 
+  * egarch(#egarch)
+    * [GPU](#gpu)
+    * [Unified Memory](#unified-memory)
+    * [RAM](#ram)
 
 
 ## GPU   
@@ -18,3 +22,4 @@ Apple devices ship with Unified Memory from 2020 to give a single address space 
 
 [How to visualize Unified Memory?](https://www.makeuseof.com/what-is-unified-memory/)     
 
+## RAM   
